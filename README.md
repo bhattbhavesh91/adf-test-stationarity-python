@@ -1,7 +1,14 @@
 # Dickey-Fuller test for Time Series Stationarity using Python
+
 ## To view the video
-* [Click here](https://youtu.be/warCSvy1DMk)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=warCSvy1DMk" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/warCSvy1DMk?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Dickey-Fuller test for Time Series Stationarity using Python](http://img.youtube.com/vi/warCSvy1DMk/0.jpg)](http://www.youtube.com/watch?v=warCSvy1DMk)
 
